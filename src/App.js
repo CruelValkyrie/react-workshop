@@ -14,7 +14,7 @@ class App extends Component {
 
       <div className='page'>
         <div className='container-fluid top-padding'>
-          <div className='col-md-2'>
+          <div className='col-md-3'>
             <ProfileCard />
           </div>
           <div className='col-md-8'>
